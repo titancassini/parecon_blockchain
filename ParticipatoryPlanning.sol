@@ -1,5 +1,5 @@
 // Import necessary libraries (for example, SafeMath for secure mathematical operations)
-// import "github.com/OpenZeppelin/contracts/math/SafeMath.sol";
+import "github.com/OpenZeppelin/contracts/math/SafeMath.sol";
 
 contract ParticipatoryPlanning {
     // Define data structures to store proposals and prices
