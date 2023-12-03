@@ -1,4 +1,8 @@
-// Import necessary libraries (for example, SafeMath for secure mathematical operations)
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+// Importing relevant libraries
+// Import SafeMath for secure mathematical operations
 import "github.com/OpenZeppelin/contracts/math/SafeMath.sol";
 
 contract ParticipatoryPlanning {
